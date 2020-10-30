@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.4.1"
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.4.1",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.0.0"
   }
 }
